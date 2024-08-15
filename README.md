@@ -10,7 +10,7 @@ Scenario: You have taken on a new client who wants you to build them a webpage. 
 
 For the purposes of this project you can pick the client. Examples can be a band, pet store, bakery, gym, etc. Make the content fit the needs of your client.
 
-There is an included final solution. It is meant as an example and guide for how to structure and organize the project. It is certainly not the only way to approach your site. Experiment with different formats and styles to fit the needs of your client.
+Review the included example (linked), which represents the kind of site you'll have created by the time you finish all 4 on the job projects." Adjust to your preference.
 
 ## Resources
 
