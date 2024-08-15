@@ -28,6 +28,7 @@ In this section, you will create the basic foundation of a webpage using essenti
 
 #### Deliverables
 
+- Create a new directory and index.html file. This repository is not starter code.
 - A navigation bar representing the different sections of the website.
 - A header section for the client's name.
 - A paragraph sections describing who the client is, what they do, etc.
