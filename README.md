@@ -40,7 +40,7 @@ In this section, you will create the basic foundation of a webpage using essenti
 
 ### Adding Style
 
-In this section, you will learn how to enhance the visual appeal of your website by integrating CSS (Cascading Style Sheets) into the basic HTML foundation you've already built. CSS allows you to control the layout, color, fonts, and overall design of your web pages, making them more engaging and user-friendly.
+In this stage, we will build on the HTML structure you created in Checkpoint 1 by adding basic styling using CSS. The focus will be on applying colors, fonts, and spacing to improve the overall design while maintaining the structure you previously developed. We will also introduce layout techniques, including alignment and the use of Flexbox, to create a more flexible and responsive page structure. Key concepts in this stage include CSS selectors, properties, values, and layout tools. By the end of this stage, your project will have an improved visual style and enhanced usability, all while maintaining the foundation from Stage 1.
 
 #### Deliverables
 
@@ -48,3 +48,12 @@ In this section, you will learn how to enhance the visual appeal of your website
 - Utilize id, class, and tag selectors to target HTML elements for styling.
 - Updated colors, fonts, and styles to create visual appeal.
 - Basic positioning using the box model and flexbox.
+
+## Grading Criteria 💯
+
+| Criteria                                   | Exemplary Performance (Full Marks) | Proficient Performance (Partial Marks) | Developing Performance (Half Marks) | Needs Improvement (No Marks) |
+|--------------------------------------------|------------------------------------|----------------------------------------|-------------------------------------|------------------------------|
+| **Technical Acceptance Criteria (60 pts)** | 54-60                              | 42-53                                  | 30-41                               | 0-29                         |
+| **Workflow Appropriacy (15 pts)**          | 14-15                              | 11-13                                  | 8-10                                | 0-7                          |
+| **Documentation (15 pts)**                 | 14-15                              | 11-13                                  | 8-10                                | 0-7                          |
+| **User Experience (10 pts)**               | 9-10                               | 7-8                                    | 5-6                                 | 0-4                          |
