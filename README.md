@@ -1,6 +1,6 @@
 # Web Dev Essentials On the Job
 
-## Project Description
+## Project Description 📄
 
 In this ongoing assignment, you'll experience what it's like to work as a web developer, building a website from the ground up using HTML and CSS. This project will guide you through the process of creating and styling a professional website, reinforcing your understanding of the foundational concepts of web development.
 
@@ -12,7 +12,7 @@ For the purposes of this project you can pick the client. Examples can be a band
 
 Review the included example (linked), which represents the kind of site you'll have created by the time you finish all 4 on the job projects." Adjust to your preference.
 
-## Resources
+## Resources 📦
 
 Free stock images and videos can be downloaded at https://www.pexels.com.
 
@@ -20,13 +20,13 @@ Utilize documentation such as [W3 Schools](https://www.w3schools.com/) and [MDN]
 
 Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI tools into your learning process, it's essential to use them responsibly. AI can be a powerful resource to assist you, but it’s important to ensure that you truly understand and engage with the content it generates. This will not only enhance your learning experience but also help you develop critical thinking and problem-solving skills.
 
-## Checkpoint 1
+## Checkpoint 1 ✋
 
-### Creating our Website's Foundation
+### Creating our Website's Foundation 📄
 
 In this section, you will create the basic foundation of a webpage using essential HTML tags. This exercise will help you understand the structure of a webpage and how to organize content using basic HTML elements.
 
-#### Deliverables
+#### Deliverables ✅
 
 - [ ] Create a new directory and index.html file. This repository is not starter code.
 - [ ] A navigation bar representing the different sections of the website.
@@ -36,13 +36,13 @@ In this section, you will create the basic foundation of a webpage using essenti
 - [ ] Gallery of images/videos.
 - [ ] Contact Us form
 
-## Checkpoint 2
+## Checkpoint 2 ✋
 
-### Adding Style
+### Adding Style 📄
 
 In this stage, we will build on the HTML structure you created in Checkpoint 1 by adding basic styling using CSS. The focus will be on applying colors, fonts, and spacing to improve the overall design while maintaining the structure you previously developed. We will also introduce layout techniques, including alignment and the use of Flexbox, to create a more flexible and responsive page structure. Key concepts in this stage include CSS selectors, properties, values, and layout tools. By the end of this stage, your project will have an improved visual style and enhanced usability, all while maintaining the foundation from Stage 1.
 
-#### Deliverables
+#### Deliverables ✅
 
 - [ ] Linked CSS stylesheet.
 - [ ] Utilize id, class, and tag selectors to target HTML elements for styling.
