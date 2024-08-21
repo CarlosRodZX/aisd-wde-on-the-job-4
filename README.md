@@ -33,6 +33,8 @@ Utilize documentation such as [W3 Schools](https://www.w3schools.com/) and [MDN]
 
 Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI tools into your learning process, it's essential to use them responsibly. AI can be a powerful resource to assist you, but it’s important to ensure that you truly understand and engage with the content it generates. This will not only enhance your learning experience but also help you develop critical thinking and problem-solving skills.
 
+---
+
 ## Checkpoint 1 ✋
 
 ### Creating our Website's Foundation 📄
@@ -48,6 +50,8 @@ In this section, you will create the basic foundation of a webpage using essenti
 - [ ] A directory for assets (images, videos, etc).
 - [ ] Gallery of images/videos.
 - [ ] Contact Us form
+
+---
 
 ## Checkpoint 2 ✋
 
