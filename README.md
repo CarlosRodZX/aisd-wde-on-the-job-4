@@ -28,13 +28,13 @@ In this section, you will create the basic foundation of a webpage using essenti
 
 #### Deliverables
 
-- Create a new directory and index.html file. This repository is not starter code.
-- A navigation bar representing the different sections of the website.
-- A header section for the client's name.
-- Create paragraph sections describing who the client is, what they do, etc.
-- A directory for assets (images, videos, etc).
-- Gallery of images/videos.
-- Contact Us form
+- [ ] Create a new directory and index.html file. This repository is not starter code.
+- [ ] A navigation bar representing the different sections of the website.
+- [ ] A header section for the client's name.
+- [ ] Create paragraph sections describing who the client is, what they do, etc.
+- [ ] A directory for assets (images, videos, etc).
+- [ ] Gallery of images/videos.
+- [ ] Contact Us form
 
 ## Checkpoint 2
 
@@ -44,10 +44,10 @@ In this stage, we will build on the HTML structure you created in Checkpoint 1 b
 
 #### Deliverables
 
-- Linked CSS stylesheet.
-- Utilize id, class, and tag selectors to target HTML elements for styling.
-- Updated colors, fonts, and styles to create visual appeal.
-- Basic positioning using the box model and flexbox.
+- [ ] Linked CSS stylesheet.
+- [ ] Utilize id, class, and tag selectors to target HTML elements for styling.
+- [ ] Updated colors, fonts, and styles to create visual appeal.
+- [ ] Basic positioning using the box model and flexbox.
 
 ## Grading Criteria 💯
 
