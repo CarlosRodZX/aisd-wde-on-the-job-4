@@ -6,11 +6,24 @@ In this ongoing assignment, you'll experience what it's like to work as a web de
 
 Throughout this assignment, you'll be tasked with building different sections of a website, each designed to introduce new HTML and CSS concepts. You’ll start with the basic structure using HTML, and as you progress, you’ll enhance the site’s design and functionality with various CSS techniques and frameworks.
 
-Scenario: You have taken on a new client who wants you to build them a webpage. Your client is a small but growing business that needs a brand-new website to showcase their products and services, attract new customers, and build their online presence.
+## Scenario 🌟
 
-For the purposes of this project you can pick the client. Examples can be a band, pet store, bakery, gym, etc. Make the content fit the needs of your client.
+You have taken on a client who is a small but growing business. Your task is to build them a new website to showcase their products/services and build an online presence.
 
-Review the included example (linked), which represents the kind of site you'll have created by the time you finish all 4 on the job projects." Adjust to your preference.
+### Choose Your Client:
+- Band
+- Pet Store
+- Bakery
+- Gym
+- Or your own idea!
+
+## Key Stages of the Project 🚀
+
+1. **Basic HTML Structure**: Set up the core structure of your website.
+2. **CSS Styling**: Enhance your site using various CSS techniques.
+3. **Advanced Design**: Utilize CSS frameworks to create a polished, responsive design.
+
+Review the included example which represents the kind of site you'll have created by the time you finish all 4 on the job projects." Adjust to your preference.
 
 ## Resources 📦
 
