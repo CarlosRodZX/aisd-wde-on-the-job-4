@@ -66,6 +66,21 @@ In this stage, we will build on the HTML structure you created in Checkpoint 1 b
 - [ ] Updated colors, fonts, and styles to create visual appeal.
 - [ ] Basic positioning using the box model and flexbox.
 
+---
+
+## Checkpoint 3 ✋
+
+### Creating a Grid 📄
+
+Now that we have our site's HTML and CSS is a good state, let's look at how we can incorporate CSS Grid into our site. The main candidate here will be the gallery of images we created in the first checkpoint but you have some flexibility as this is your site. y the end of this stage, your image gallery will be neatly structured, flexible, and visually appealing across devices.
+
+#### Deliverables ✅
+
+- [ ] Apply CSS grid to your gallery of images to create neat rows and columns
+- [ ] Ensure that your grid is responsive. As the window (screen) gets smaller the grid should adapt. This can be done with media queries or the built-in responsive grid.
+
+---
+
 ## Grading Criteria 💯
 
 | Criteria                                   | Exemplary Performance (Full Marks) | Proficient Performance (Partial Marks) | Developing Performance (Half Marks) | Needs Improvement (No Marks) |
