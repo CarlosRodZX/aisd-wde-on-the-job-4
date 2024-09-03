@@ -81,6 +81,23 @@ Now that we have our site's HTML and CSS is a good state, let's look at how we c
 
 ---
 
+## Checkpoint 4 ✋
+
+### Bootstrap Makeover 📄
+
+You will now take your existing web page that you have previously created and transform it using CSS Bootstrap. The goal is to enhance the design, responsiveness, and overall user experience by applying Bootstrap’s grid system, components, and utilities. You will start by analyzing the current structure of your web page, then systematically integrate Bootstrap classes to achieve a modern, professional look.
+
+This activity will challenge you to think critically about layout, component selection, and responsiveness as you apply Bootstrap’s features to your design. By the end of this exercise, you will have a refined web page that not only looks better but also adapts seamlessly to different screen sizes, providing a consistent user experience across devices.
+
+You have many options here. AI can take your existing code and apply Bootstrap to it but check to ensure that the outcome is what you want. You may have to followup to fix certain issues that may arise. If you go this route then be sure to only have AI convert small sections at a time (navbar, main content, etc) rather than the whole thing at once. Another option is to look at your existing code and have the AI generate something similar and then you apply your desired changes.
+
+#### Deliverables ✅
+
+- [ ] Apply CSS Bootstrap to your web page.
+- [ ] Ensure that your web page is responsive. As the window (screen) gets smaller the grid should adapt. Bootstrap should handle most of this automatically. You will need to apply breakpoints to any grid components.
+
+---
+
 ## Grading Criteria 💯
 
 | Criteria                                   | Exemplary Performance (Full Marks) | Proficient Performance (Partial Marks) | Developing Performance (Half Marks) | Needs Improvement (No Marks) |
