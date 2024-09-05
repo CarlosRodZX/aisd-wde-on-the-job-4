@@ -47,6 +47,7 @@ You have many options here. AI can take your existing code and apply Bootstrap t
 
 #### Deliverables ✅
 
+- [ ] We will now continue building on the repository created in checkpoint 1. (Do not create a new repository.)
 - [ ] Apply CSS Bootstrap to your web page.
 - [ ] Ensure that your web page is responsive. As the window (screen) gets smaller the grid should adapt. Bootstrap should handle most of this automatically. You will need to apply breakpoints to any grid components.
 
