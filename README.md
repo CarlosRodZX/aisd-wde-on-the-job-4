@@ -35,52 +35,6 @@ Use AI tools such as ChatGPT and Claude to help you learn. As you integrate AI t
 
 ---
 
-## Checkpoint 1 ✋
-
-### Creating our Website's Foundation 📄
-
-In this section, you will create the basic foundation of a webpage using essential HTML tags. This exercise will help you understand the structure of a webpage and how to organize content using basic HTML elements.
-
-#### Deliverables ✅
-
-- [ ] Create a new directory and index.html file. This repository is not starter code.
-- [ ] A navigation bar representing the different sections of the website.
-- [ ] A header section for the client's name.
-- [ ] Create paragraph sections describing who the client is, what they do, etc.
-- [ ] A directory for assets (images, videos, etc).
-- [ ] Gallery of images/videos.
-- [ ] Contact Us form
-
----
-
-## Checkpoint 2 ✋
-
-### Adding Style 📄
-
-In this stage, we will build on the HTML structure you created in Checkpoint 1 by adding basic styling using CSS. The focus will be on applying colors, fonts, and spacing to improve the overall design while maintaining the structure you previously developed. We will also introduce layout techniques, including alignment and the use of Flexbox, to create a more flexible and responsive page structure. Key concepts in this stage include CSS selectors, properties, values, and layout tools. By the end of this stage, your project will have an improved visual style and enhanced usability, all while maintaining the foundation from Stage 1.
-
-#### Deliverables ✅
-
-- [ ] Linked CSS stylesheet.
-- [ ] Utilize id, class, and tag selectors to target HTML elements for styling.
-- [ ] Updated colors, fonts, and styles to create visual appeal.
-- [ ] Basic positioning using the box model and flexbox.
-
----
-
-## Checkpoint 3 ✋
-
-### Creating a Grid 📄
-
-Now that we have our site's HTML and CSS is a good state, let's look at how we can incorporate CSS Grid into our site. The main candidate here will be the gallery of images we created in the first checkpoint but you have some flexibility as this is your site. y the end of this stage, your image gallery will be neatly structured, flexible, and visually appealing across devices.
-
-#### Deliverables ✅
-
-- [ ] Apply CSS grid to your gallery of images to create neat rows and columns
-- [ ] Ensure that your grid is responsive. As the window (screen) gets smaller the grid should adapt. This can be done with media queries or the built-in responsive grid.
-
----
-
 ## Checkpoint 4 ✋
 
 ### Bootstrap Makeover 📄
