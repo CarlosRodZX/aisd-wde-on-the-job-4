@@ -61,3 +61,6 @@ You have many options here. AI can take your existing code and apply Bootstrap t
 | **Workflow Appropriacy (15 pts)**          | 14-15                              | 11-13                                  | 8-10                                | 0-7                          |
 | **Documentation (15 pts)**                 | 14-15                              | 11-13                                  | 8-10                                | 0-7                          |
 | **User Experience (10 pts)**               | 9-10                               | 7-8                                    | 5-6                                 | 0-4                          |
+
+---
+© All rights reserved to ThriveDX
